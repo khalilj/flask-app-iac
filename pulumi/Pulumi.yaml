@@ -1,0 +1,6 @@
+name: flask-app-iac
+description: flask-app-iac
+runtime:
+    name: python
+    options:
+        virtualenv: venv
